@@ -1,0 +1,85 @@
+body{
+    background-image: url(https://lh3.googleusercontent.com/pw/AL9nZEU1gg_CWvhQBd9XNZYLDvLGbDQNwlsvKgBRASuuceNSVsY44rniijAFbVZASY99P1gdqN28em0vxpRxYRKKFvU-vsJYLpI7DVY-7WU7ahxoUzCC0HKKXFWCbrLm_lZYFlIcZ_nxXXFx5f4Z9avogqP0=w1601-h901-no?authuser=0);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+h1{
+    font-family:'Plaster', cursive;
+    color: azure;
+    font-weight: bolder;
+    font-size: 90px;
+    text-align: center;
+    margin-top: 30px;
+    margin-left:20px ;
+    background: linear-gradient(90deg, #f54079, #080640,#9c12c6,#8B2C60,#11cedf,rgb(1, 119, 253));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+    -webkit-text-fill-color: transparent;
+    display: inline-block
+    
+
+}
+.back{
+    
+    background-color: rgba(255, 255, 255, 0);
+    height:90px;
+    width: 600px;
+    margin-top:160px;
+    margin-inline: 250px;
+    border-radius: 10px;
+    position:absolute;
+    color: transparent;
+    
+}
+
+.back:hover{
+    background-color: rgba(255, 255, 255, .15);  
+    backdrop-filter: blur(5px);
+    color: aliceblue;
+
+}
+.back p{
+    padding: 2px;
+    font-size:15px;
+    font-weight:bolder;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+}
+.back h4{
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-weight: lighter;
+    font-size:s;
+}
+.back1{
+    margin-top:290px;
+    margin-inline: 250px;
+    
+    background-color: rgba(255, 255, 255, .15);
+    
+    height:260px;
+    width: 600px;
+    position: absolute;
+    border-radius: 10px;
+}
+.back1:hover{
+    background-color: rgba(167, 167, 167, 0.15);  
+    backdrop-filter: blur(5px);
+
+}
+.back1 ul{
+    font-size: small;
+    text-align: center;
+    
+    
+}
+.back1 ul li{
+    list-style-type: none;
+    padding:10px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+
